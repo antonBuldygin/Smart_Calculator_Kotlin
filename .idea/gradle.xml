@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Smart Calculator (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Division" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Max" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Percentage" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Statements" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Heroes and villains" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Improve your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Nested or inner" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Pumpkin and candle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Blocks in a box" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Facts about constants" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Me" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Properties" />
+            <option value="$PROJECT_DIR$/Topics/Object declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Field access" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Weather comparison" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Camels vs. snakes" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Find the difference" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Limit" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Serial number for game" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexps in use/Web colors" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Backslash problem" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Can you" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Creating regexes" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Matching pattern" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/The dot" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
